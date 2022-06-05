@@ -14,10 +14,6 @@ permalink: /about/
 
 # <center>Short Bio</center>
 
-I am a final-year Ph.D. student in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)'s [Data Mining Group](http://dm1.cs.uiuc.edu/) at [CS@Illinois](https://cs.illinois.edu/), and a [Google PhD Fellow](https://ai.google/research/outreach/phd-fellowship). I received my B.E. from Computer Science Department, Shanghai Jiao Tong Univ. (SJTU), China, where I was a member of the 2010 [ACM Honored class](http://acm.sjtu.edu.cn/), now part of Zhiyuan College in SJTU. 
+I am a second year Ph.D. student in Prof. [Abdul Sattar]([http://hanj.cs.illinois.edu/](https://experts.griffith.edu.au/18511-abdul-sattar))'s [IIIS Group]([http://dm1.cs.uiuc.edu/](https://www.griffith.edu.au/institute-integrated-intelligent-systems)) at [ICT@GriffithUni]([https://cs.illinois.edu/](https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology)). I received my B.E. from Mathematic Department, Khayyam Univ., Iran, and M.S. from Computer Science Department, Tabari university. 
 
-My research focuses on developing principled *data-driven* approaches, with *little human curation and labeling*, to transform unstructured text data into structured heterogeneous information networks, on which actionable knowledge can be further uncovered flexibly and effectively based on user's instructions.
-
-My research has been recognized by many prestigious awards, including Computer Science Excellence Scholarship from CS@Illinois, Grand Prize of Yelp Dataset Challenge in 2015, Google PhD Fellowship in Structured Data and Database Management in 2017, and C.W. Gear Outstanding Graduate Award in 2018.
-
-In addition, I love competitive programming contests, such as ACM/ICPC, Topcoder Open, Google Codejam, Facebook Hackercup, etc. I'm now the coach of the UIUC's ACM/ICPC team and I enjoy mentoring and coaching students.
+My research focuses on developing principled *AI-driven* approaches, with *little human curation and labeling*, to diagnostic and prognosis of ALS where I have high-dimension data and I want to transform it into structured heterogeneous information networks, on which mutation drivers can be further uncovered flexibly and effectively based on polygenic score.
