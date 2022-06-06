@@ -38,3 +38,10 @@ A selection of my <b>experiences</b>, grouped by categories.
 - Natural Resources Research (NARR)
 - The Science and Technology of Fuel and Energy
 
+## <center>Online Course</center>
+
+- **Applied AI with DeepLearning**, [Credential ID: UWUU8PJMEKHW](https://www.coursera.org/account/accomplishments/verify/UWUU8PJMEKHW),  June 2019, IBM
+- **Convolutional Neural Networks**, [Credential ID: VDXMSQP79BT6](https://www.coursera.org/account/accomplishments/verify/VDXMSQP79BT6),  July 2019, deeplearning.ai
+- **Reliable Cloud Infrastructure: Design and Process**, [Credential ID: DUBRU742UAVK](https://www.coursera.org/account/accomplishments/certificate/DUBRU742UAVK), Aug 2019, Google Cloud Platform Certified
+- **Blockchain and Deep Learning: Future of AI**, [Credential ID: UC-D67OL1AP](http://ude.my/UC-D67OL1AP), Sep 2019, Udemy
+- **Blockchain**, [Credential ID: DQ8NPHL3VPFG](https://www.coursera.org/account/accomplishments/specialization/certificate/DQ8NPHL3VPFG), Nov 2019, University at Buffalo
