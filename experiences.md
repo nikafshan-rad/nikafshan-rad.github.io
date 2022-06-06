@@ -28,8 +28,8 @@ A selection of my <b>experiences</b>, grouped by categories.
 
 ### Journal Reviewer
 
-- Energy Conversion and Management Journal
-- Journal of Network and Computer Applications
+- Energy Conversion and Management Journal 
+- Journal of Network and Computer Applications <a href="/files/ReviewCertificate.pdf">Certificate</a>
 - Applied Artificial Intelligence
 - Cleaner Production Journal
 - IEEE Access
