@@ -28,15 +28,15 @@ A selection of my <b>experiences</b>, grouped by categories.
 
 ### Journal Reviewer
 
-- Energy Conversion and Management Journal 
+- Energy Conversion and Management Journal <a href="/files/Certificate_ECM_Recognised.pdf">Certificate</a>
 - Journal of Network and Computer Applications <a href="/files/ReviewCertificate.pdf">Certificate</a>
 - Applied Artificial Intelligence
-- Cleaner Production Journal
+- Cleaner Production Journal<a href="/files/Certificate_JCLP_Recognised (1).pdf">Certificate</a>
 - IEEE Access
 - Engineering with Computers Journal( An International Journal for Simulation-Based Engineering)
-- Measurement Journal
+- Measurement Journal<a href="/files/Certificate_MEASUR_Recognised (1).pdf">Certificate</a>
 - Natural Resources Research (NARR)
-- The Science and Technology of Fuel and Energy
+- The Science and Technology of Fuel and Energy<a href="/files/Certificate_JFUE_Recognised.pdf">Certificate</a>
 
 ## <center>Online Course</center>
 
