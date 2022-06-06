@@ -6,7 +6,7 @@ permalink: /about/
 
 <p align="center">
     More details: 
-    <a href="https://github.com/nikafshan-rad/nikafshan-rad.github.io/raw/master/files/Hima%20Nikafshan%20Rad%20CV.pdf">
+    <a href="/files/Hima Nikafshan Rad CV.pdf">
         <img alt="PDF version CV" src="https://img.shields.io/badge/Curriculum Vitae-PDF-blue.svg">
     </a>
 </p>
