@@ -10,7 +10,7 @@ A selection of my <b>experiences</b>, grouped by categories.
 
 ## <center>Employments</center>
 
-- **GenieUs Genomic**, Biotechnology company in Darlinghurst, New South Wales, Australia,  July 2021 - ongoing,
+- [**GenieUs Genomic**](https://genieus.co/), Biotechnology company in Darlinghurst, New South Wales, Australia,  July 2021 - ongoing,
   * Research Intern
 - **Daneshyar (Knowledgebase Company)**, Mashhad, Iran,  July 2016 - June 2021
   * CEO and researcher
