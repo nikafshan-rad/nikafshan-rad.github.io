@@ -6,7 +6,7 @@ permalink: /about/
 
 <p align="center">
     More details: 
-    <a href="https://www.dropbox.com/s/mgwiep5aiesis9q/CV_Jingbo_Shang_20181125.pdf?dl=1">
+    <a href="/files/Hima Nikafshan Rad CV.pdf>
         <img alt="PDF version CV" src="https://img.shields.io/badge/Curriculum Vitae-PDF-blue.svg">
     </a>
 </p>
