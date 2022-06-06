@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Joining UC San Diego as Assistant Professor!"
-date:   2019-07-24 15:00:00 -0400
-tags: UCSD AP CSE HDSI
+title:  "Joining GenieUs Genomic as researcher!"
+date:   2021-07-20 15:00:00 -0400
+tags: GenieUsGenomic ALS
 ---
 
-I'm joining UC San Diego as Assistant Professor starting from Jan 2020. I will be jointly appointed by [Computer Science and Engineering (CSE)](https://cse.ucsd.edu/) and [Halıcıoğlu Data Science Institute (HDSI)](https://datascience.ucsd.edu/). I'm looking for talented & dedicated students to work together on data-driven, large-scale text mining and network mining problems.
+I'm GenieUs Genomic company as researcher starting from July 2021. I will be a member of the ML team where we will work on amyotrophic lateral sclerosis(ALS).
